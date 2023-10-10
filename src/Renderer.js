@@ -1,7 +1,7 @@
-import * as THREE from 'three';
+import * as THREE from "three";
 
 // src
-import Experience from './Experience.js';
+import Experience from "./Experience.js";
 
 export default class Renderer {
   constructor() {
@@ -36,6 +36,10 @@ export default class Renderer {
   }
 
   update() {
-    this.webglRenderer.render(this.scene, this.camera.perspectiveCamera);
+    // this.webglRenderer.render(this.scene, this.camera.perspectiveCamera);
+    this.webglRenderer.render(
+      this.experience.scene,
+      this.camera.perspectiveCamera
+    );
   }
 }

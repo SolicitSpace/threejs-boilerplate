@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wilkesboro racetrack
+* source:	https://sketchfab.com/3d-models/wilkesboro-racetrack-816d583ae63f47b794db0337faf3442d
+* author:	kimbo (https://sketchfab.com/kimbo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wilkesboro racetrack" (https://sketchfab.com/3d-models/wilkesboro-racetrack-816d583ae63f47b794db0337faf3442d) by kimbo (https://sketchfab.com/kimbo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
